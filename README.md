@@ -1,4 +1,4 @@
 Chris-s-Arduino-Rail-HaTrack
 ============================
 
-crocontroller research into controlling the model railway and traffic
+Microcontroller research into controlling the model railway and traffic
